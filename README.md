@@ -4,6 +4,7 @@
 
 
 A modern web application for tracking product prices and receiving alerts when prices drop to your target amount.
+Due to security considerations, a significant portion of the code is unavailable, as it contains sensitive user credentials for services such as Twilio, AWS, and others.
 
 ## Features
 
