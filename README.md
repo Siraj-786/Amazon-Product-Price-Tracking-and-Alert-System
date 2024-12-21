@@ -1,6 +1,7 @@
 # Price Tracker
 
-![Price Tracker Dashboard](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=2940)
+![Price Tracker Dashboard](https://github.com/Siraj-786/Amazon-Product-Price-Tracking-and-Alert-System/blob/master/Reference.png)
+
 
 A modern web application for tracking product prices and receiving alerts when prices drop to your target amount.
 
